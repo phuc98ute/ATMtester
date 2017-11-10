@@ -10,22 +10,11 @@ using System.Windows.Forms;
 
 namespace ATM
 {
-    public partial class Form1 : Form
+    public partial class FormNhanh2 : Form
     {
-        public Form1()
+        public FormNhanh2()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnNhanh2_Click(object sender, EventArgs e)
-        {
-            FormNhanh2 f = new FormNhanh2();
-            f.Show();
         }
     }
 }

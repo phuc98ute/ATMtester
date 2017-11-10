@@ -50,6 +50,7 @@
             this.btnNhanh2.TabIndex = 1;
             this.btnNhanh2.Text = "Nhanh 2";
             this.btnNhanh2.UseVisualStyleBackColor = true;
+            this.btnNhanh2.Click += new System.EventHandler(this.btnNhanh2_Click);
             // 
             // Form1
             // 
