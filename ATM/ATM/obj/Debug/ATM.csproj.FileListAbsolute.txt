@@ -1,0 +1,11 @@
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.Form1.resources
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.FormNhnh1.resources
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\TestMegre\ATMtester\ATM\ATM\bin\Debug\ATM.exe.config
+D:\TestMegre\ATMtester\ATM\ATM\bin\Debug\ATM.exe
+D:\TestMegre\ATMtester\ATM\ATM\bin\Debug\ATM.pdb
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.exe
+D:\TestMegre\ATMtester\ATM\ATM\obj\Debug\ATM.pdb

@@ -10,20 +10,14 @@ using System.Windows.Forms;
 
 namespace ATM
 {
-    public partial class Form1 : Form
+    public partial class FormNhnh1 : Form
     {
-        public Form1()
+        public FormNhnh1()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            FormNhnh1 f = new FormNhnh1();
-            f.Show();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
